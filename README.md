@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashwanthrkumar" target="blank"><img src="https://img.shields.io/twitter/follow/ashwanthrkumar?logo=twitter&style=for-the-badge" alt="ashwanthrkumar" /></a> </p>
 
-- 🔭 I’m currently working on [Hospital Management](https://github.com/ashwanthrkumar/RR-Hospital-Management)
+- 🔭 I’m currently working on [RC Robot using SLAM](https://github.com/ashwanthrkumar/cmti_slam)
 
 - 🌱 I’m currently learning **React Native**
 

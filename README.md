@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwanth R Kumar</h1>
+![](https://komarev.com/ghpvc/?username=ashwanthrkumar&style=flat-square&label=PROFILE+VIEWS)
 <h3 align="center">I'm dedicated to the art of coding and love tackling complex challenges to create elegant solutions. I'm constantly seeking opportunities to expand my knowledge and refine my skills. My code journey is fueled by curiosity, innovation, and the desire to make a positive impact on the digital world.</h3>
 
 <p align="left"> <a href="https://twitter.com/ashwanthrkumar" target="blank"><img src="https://img.shields.io/twitter/follow/ashwanthrkumar?logo=twitter&style=for-the-badge" alt="ashwanthrkumar" /></a> </p>
